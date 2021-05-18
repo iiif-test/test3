@@ -23,7 +23,18 @@
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
-    "canvases" : [ {
+    "canvases" : [ 
+      {
+           "id": "https://iiif-test.github.io/test2/images/IMG_8765/canvas/",
+           "label": {
+               "none": [
+                   "Test in process image"
+                ]
+            },
+           "type": "Canvas",
+           "proccess_id": "aafb5acb-87e6-4a88-9d94-e53df3fcdc0b"
+        },
+      {
       "@id" : "http://a292a51f-5975-497f-b9a4-8a962e380762-march",
       "@type" : "sc:Canvas",
       "label" : "Empty canvas",
