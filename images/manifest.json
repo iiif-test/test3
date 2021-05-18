@@ -7,6 +7,70 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 4032,
+    "id" : "https://iiif-test.github.io/test3/images/IMG_06142/canvas/",
+    "label" : {
+      "none" : [ "IMG_06142" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://iiif-test.github.io/test3/images/IMG_06142/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://iiif-test.github.io/test3/images/IMG_06142/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_06142",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3024
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://iiif-test.github.io/test3/images/IMG_06142/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3024
+        },
+        "target" : "https://iiif-test.github.io/test3/images/IMG_06142/canvas/"
+      } ]
+    } ],
+    "height" : 3024
+  }, {
+    "id" : "https://iiif-test.github.io/test3/images/IMG_0614/canvas/",
+    "label" : {
+      "none" : [ "IMG_0614" ]
+    },
+    "type" : "Canvas",
+    "proccess_id" : "4da1e0aa-6919-4da0-aa5b-8698849cc55a"
+  }, {
+    "width" : 4032,
     "id" : "https://iiif-test.github.io/test3/images/IMG_0625/canvas/",
     "label" : {
       "none" : [ "IMG_0625" ]
