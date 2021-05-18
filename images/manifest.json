@@ -120,13 +120,6 @@
     } ],
     "height" : 3024
   }, {
-    "id" : "https://iiif-test.github.io/test3/images/IMG_0614/canvas/",
-    "label" : {
-      "none" : [ "IMG_0614" ]
-    },
-    "type" : "Canvas",
-    "proccess_id" : "4da1e0aa-6919-4da0-aa5b-8698849cc55a"
-  }, {
     "width" : 4032,
     "id" : "https://iiif-test.github.io/test3/images/IMG_0625/canvas/",
     "label" : {
