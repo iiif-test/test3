@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3/manifests/test.json",
     "label" : "Reading the Diocletian's palace by Nenad Gattin"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test3/manifests/test3.json",
+    "label" : "Valley of the Shadow of Death, both versions"
   } ]
 }
