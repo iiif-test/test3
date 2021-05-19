@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3/manifests/test3.json",
     "label" : "Valley of the Shadow of Death, both versions"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test3/manifests/test4.json",
+    "label" : "test"
   } ]
 }
