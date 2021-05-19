@@ -23,6 +23,7 @@
       "label" : "Empty canvas",
       "height" : 3024,
       "width" : 4032,
+      "thumbnail": "https://iiif-test.github.io/test3/images/IMG_0619/full/126,/0/default.jpg",
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://75113dfa-98cd-416b-8a3a-b87dc2c345d8",
