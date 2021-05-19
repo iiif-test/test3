@@ -19,10 +19,6 @@
     "label" : "Valley of the Shadow of Death, both versions"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://iiif-test.github.io/test3/manifests/test4.json",
-    "label" : "test"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3//manifests/manifest4.json",
     "label" : "Glen's fantastic March 2021 Manifest"
   } ]
