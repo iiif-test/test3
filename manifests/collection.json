@@ -23,10 +23,6 @@
     "label" : "test"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://iiif-test.github.io/test3/manifests/test5.json",
-    "label" : "test"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3//manifests/manifest4.json",
     "label" : "Glen's fantastic March 2021 Manifest"
   } ]
