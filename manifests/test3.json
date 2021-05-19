@@ -1,0 +1,79 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://iiif-test.github.io/test3/manifests/test3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Valley of the Shadow of Death, both versions",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://fdcdbbde-f070-4d95-99ff-a14e94257276",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://98547cae-e994-4ce5-8c51-6d2e12c2e6c9",
+      "@type" : "sc:Canvas",
+      "label" : "Valley of the Shadow of Death (canon balls off road)",
+      "height" : 1988,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e0134b0e-1d83-432e-8952-118c31f62ab6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/valley-of-the-shadow-of-death_202006$ART356866.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/valley-of-the-shadow-of-death_202006$ART356866.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1988,
+          "width" : 2500
+        },
+        "on" : "http://98547cae-e994-4ce5-8c51-6d2e12c2e6c9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84de19cd-9fff-4f3a-904c-35844b5a9b44",
+      "@type" : "sc:Canvas",
+      "label" : "Valley of the Shadow of Death (cannon balls on road)",
+      "height" : 5132,
+      "width" : 6492,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5a8c60db-41d7-4ce7-ab5d-a4ec42c0d875",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://data.getty.edu/museum/api/iiif/283763/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://data.getty.edu/museum/api/iiif/283763",
+            "profile" : [ "http://iiif.io/api/image/2/level0.json", {
+              "maxWidth" : 6492,
+              "maxHeight" : 5132,
+              "maxArea" : 33316944
+            } ]
+          },
+          "height" : 5132,
+          "width" : 6492
+        },
+        "on" : "http://84de19cd-9fff-4f3a-904c-35844b5a9b44"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
