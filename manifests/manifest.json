@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://iiif-test.github.io/test3/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Workbench manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Manifest using the new workbench tool",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://b5a2261a-5fcb-4493-bba0-52b43fbca8a0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://55c3b1a3-0c5a-41fb-aee8-8013c0b86a3a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://75113dfa-98cd-416b-8a3a-b87dc2c345d8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_0619/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_0619",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://55c3b1a3-0c5a-41fb-aee8-8013c0b86a3a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2437aae4-0929-43d2-92cd-777a2eed77b5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd6edde5-2bbe-411e-89fc-086b5c880914",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_0629/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_0629",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://2437aae4-0929-43d2-92cd-777a2eed77b5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
