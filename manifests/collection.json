@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3/manifests/manifest.json",
     "label" : "Workbench manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test3/manifests/manifest2.json",
+    "label" : "Glen's fantastic May 2021 Manifest"
   } ]
 }
