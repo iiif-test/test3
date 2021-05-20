@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://iiif-test.github.io/test3/manifests/test.json",
-    "label" : "Reading the Diocletian's palace by Nenad Gattin"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3/manifests/manifest.json",
     "label" : "Workbench manifest"
   } ]
