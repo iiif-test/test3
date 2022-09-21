@@ -1,0 +1,128 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://iiif-test.github.io/test3/manifests/4_page_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "4 page manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://69dba111-459a-4672-ab62-1f9a230ec6de",
+    "@type" : "sc:Sequence",
+    "viewingHint" : "individuals",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a51204ce-a780-43a7-9bbe-45aa3ddb4baf",
+      "@type" : "sc:Canvas",
+      "label" : "Venice1",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://346126a5-cc48-458e-9775-8a52b52bd3f5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_0629/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_0629",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://a51204ce-a780-43a7-9bbe-45aa3ddb4baf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b427b1db-1dc7-41f0-94db-d71ee43c218b",
+      "@type" : "sc:Canvas",
+      "label" : "Bridge",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://155f4f76-30f0-4b7b-921a-bf3c37553113",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_0619/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_0619",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://b427b1db-1dc7-41f0-94db-d71ee43c218b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://068372ff-3b23-47e1-ab40-da12b6e73f5d",
+      "@type" : "sc:Canvas",
+      "label" : "Plane",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cba45095-4820-433a-8832-98ecc0c00531",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_8260/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_8260",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://068372ff-3b23-47e1-ab40-da12b6e73f5d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2cb3ef4e-db90-4f26-b3ff-c81d6f95ae11",
+      "@type" : "sc:Canvas",
+      "label" : "Canal side on.",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be668bf6-a388-47c6-8a55-9da54688374d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/test3/images/IMG_0612/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-test.github.io/test3/images/IMG_0612",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://2cb3ef4e-db90-4f26-b3ff-c81d6f95ae11"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
