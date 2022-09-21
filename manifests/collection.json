@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test3/manifests/manifest2.json",
     "label" : "Glen's fantastic May 2021 Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test3/manifests/4_page_manifest.json",
+    "label" : "4 page manifest"
   } ]
 }
