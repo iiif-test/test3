@@ -11,6 +11,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0614/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0614"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -43,6 +48,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0638/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0638"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -75,6 +85,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0629/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0629"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -107,6 +122,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_8260/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_8260"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -139,6 +159,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0650/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0650"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -171,6 +196,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_06142/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_06142"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -203,6 +233,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0619/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0619"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -235,6 +270,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0634/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0634"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -267,6 +307,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0622/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0622"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -299,6 +344,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0625/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0625"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -331,6 +381,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_06123/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_06123"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
@@ -363,6 +418,11 @@
     {
       "id": "https://iiif-test.github.io/test3/images/IMG_0612/canvas/",
       "type": "Canvas",
+      "label": {
+        "none": [
+          "IMG_0612"
+        ]
+      },
       "height": 3024,
       "width": 4032,
       "items": [
