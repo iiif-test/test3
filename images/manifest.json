@@ -75,7 +75,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0614",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -156,7 +156,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0638",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -237,7 +237,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0629",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -318,7 +318,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_8260",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -397,12 +397,12 @@
                                                 "height": 3024
                                             }
                                         ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "profile": "level0",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 3024,
-                                        "@type": "ImageService2"
+                                        "id": "https://iiif-test.github.io/test3/images/IMG_0650",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3024
                                     }
                                 ],
                                 "format": "image/jpeg"
@@ -480,7 +480,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_06142",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -561,7 +561,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0619",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -642,7 +642,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0634",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -723,7 +723,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0622",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
@@ -802,12 +802,12 @@
                                                 "height": 3024
                                             }
                                         ],
-                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "profile": "level0",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
-                                        "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 3024,
-                                        "@type": "ImageService2"
+                                        "id": "https://iiif-test.github.io/test3/images/IMG_0625",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3024
                                     }
                                 ],
                                 "format": "image/jpeg"
@@ -885,7 +885,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 4032,
-                                        "@id": "https://iiif-test.github.io/test3/images/IMG_0612",
+                                        "@id": "https://iiif-test.github.io/test3/images/IMG_06123",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3024,
                                         "@type": "ImageService2"
